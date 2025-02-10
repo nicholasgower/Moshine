@@ -87,6 +87,7 @@ data:extend({
     results = {{type = "item", name = "silicon", amount = 1}},
     allow_productivity = true,
     enabled = false,
+    auto_recycle = false,
   },
   {
     type = "recipe",
